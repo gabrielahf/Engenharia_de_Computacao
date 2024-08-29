@@ -1,0 +1,1 @@
+/home/gabiroxo/Downloads/C e C - Busca e Operações com Listas Simples/Estrutura de Dados - Busca e Operações com Listas Simples/OperacoesListaSequencial.cpp

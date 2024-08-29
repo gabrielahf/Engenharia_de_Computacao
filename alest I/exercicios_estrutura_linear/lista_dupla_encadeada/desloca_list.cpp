@@ -1,0 +1,1 @@
+while (head != nullptr) { aux = head; head = head->next; delete aux;}
